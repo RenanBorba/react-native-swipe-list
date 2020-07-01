@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 # Projeto Portfólio Swipe List - Aplicação Mobile React Native
 
