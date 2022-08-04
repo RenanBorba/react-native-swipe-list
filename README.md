@@ -65,7 +65,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para layout de Swipe L
 </ul>
 <br><br><br>
 
-## :mega: Segue abaixo a principal interface:
+## :mega: ⬇ Abaixo, a principal interface:
 
 <br><br><br>
 
