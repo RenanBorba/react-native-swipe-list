@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para layout de Swipe List para aplicativos diversos e adaptação de projetos anteriores. Usa dados estáticos de tarefas diárias para melhor visualização da animação da lista com efeito de swipe.
+Aplicação Front-end Mobile desenvolvida em React Native para layout de Swipe List para aplicativos diversos e adaptação de projetos anteriores. Usa dados estáticos de tarefas diárias para melhor visualização da animação da lista com efeito de "swipe".
 
 <br><br>
 
